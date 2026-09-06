@@ -12,5 +12,5 @@
  * window.AH_TECH_GOOGLE = { clientId: '1234567890-abc.apps.googleusercontent.com' };
  */
 window.AH_TECH_GOOGLE = {
-  clientId: 'COLOQUE_AQUI_SEU_CLIENT_ID.apps.googleusercontent.com'
+  clientId: '402842149390-3bfsv57gonh8qa5df5hihatalk1poh56.apps.googleusercontent.com'
 };
