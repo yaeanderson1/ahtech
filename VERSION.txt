@@ -1,2 +1,0 @@
-AH TECH Gestão Premium V25 — Google Drive Cloud
-Autenticação Google + sincronização central de dados e imagens via Google Drive API.
