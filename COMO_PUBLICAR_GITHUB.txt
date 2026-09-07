@@ -1,6 +1,0 @@
-1. Extraia este ZIP.
-2. Envie os arquivos diretamente para a raiz do repositório GitHub Pages.
-3. A raiz deve conter index.html e google-drive-config.js.
-4. Faça Commit changes.
-5. Aguarde o GitHub Pages publicar.
-6. Teste com Ctrl+Shift+R.
