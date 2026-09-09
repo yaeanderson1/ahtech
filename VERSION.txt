@@ -1,3 +1,0 @@
-AH TECH GESTÃO PREMIUM
-V25.3 - GOOGLE DRIVE FULL ACCESS FIX
-Escopo Drive ampliado e diagnóstico detalhado de erros da API.
