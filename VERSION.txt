@@ -1,3 +1,0 @@
-AH TECH Gestão Premium V25.2 — Google Drive Sync Fix
-Client ID configurado
-Diagnóstico de erro visível na tela de login
